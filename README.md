@@ -5,4 +5,6 @@ An automated area detector to find the best tablet area possible, this work usin
 i've been trying to fix known issues
 
 1-Area out of bounds
+
+
 2-When an area is manually assigned it doesn't really match the area of the tablet happening with gaomon tablets
